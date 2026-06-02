@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# Credentials — ห้าม push เด็ดขาด
+config.py
+
+# Input / Output / Data — ข้อมูลจริงและไฟล์ที่ generate
+input/
+output/
+ground_truth/
+
+
